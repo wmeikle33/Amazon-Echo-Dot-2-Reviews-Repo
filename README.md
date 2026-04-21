@@ -6,7 +6,7 @@ Amazon-Echo-Dot-2-Reviews/
 ├── requirements.txt
 ├── requirements-dev.txt
 ├── src/
-│   └── ctr_prediction/
+│   └── amazon/
 │       ├── __init__.py
 │       ├── model.py
 │       ├── train.py
